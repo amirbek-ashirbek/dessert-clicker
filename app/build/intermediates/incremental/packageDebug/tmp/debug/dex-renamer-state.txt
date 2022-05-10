@@ -1,0 +1,4 @@
+#Wed May 04 18:58:58 ALMT 2022
+base.0=C\:\\Users\\Kazaktelekom\\Desktop\\Android Develpoment\\Android Developers Course Projects\\android-basics-kotlin-dessert-clicker-app-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
